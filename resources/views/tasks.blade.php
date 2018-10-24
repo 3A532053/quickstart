@@ -1,11 +1,5 @@
-<?php
-/**
- * Created by PhpStorm.
- * User: admin
- * Date: 2018/10/24
- * Time: 下午 04:54
- */
-// resources/views/tasks.blade.php
+
+
 
 @extends('layouts.app')
 

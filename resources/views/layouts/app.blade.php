@@ -1,11 +1,5 @@
 
-/**
- * Created by PhpStorm.
- * User: admin
- * Date: 2018/10/24
- * Time: 下午 04:56
- */
-// resources/views/layouts/app.blade.php
+
 
 <!DOCTYPE html>
 <html lang="en">
