@@ -38,7 +38,7 @@ Route::post('/task', function (Request $request) {
     return redirect('/');
 });
 /**
- * 刪除任務
+ * 刪除現有任務
  */
 Route::delete('/task/{task}', function (Task $task) {
     //
